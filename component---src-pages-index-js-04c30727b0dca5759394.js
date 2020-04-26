@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),l=n.n(t),c=(n("sQfG"),n("x6fP")),o=n("Ol8U");a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(o.a,null),l.a.createElement("div",{className:"indexPage"},"Boilerplate, ready to go yo"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-04c30727b0dca5759394.js.map
